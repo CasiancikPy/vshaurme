@@ -1,9 +1,7 @@
 .idea/
 
 
-db.sqlite3
-database.sqlite3
-another_db.sqlite3
+*.sqlite3
 
 
 .vscode
